@@ -7,7 +7,6 @@ import android.widget.ImageButton
 import android.widget.TextView
 
 class MainActivity : AppCompatActivity() {
-
     private lateinit var mHelloTextView: TextView
     private lateinit var editText: EditText
     private lateinit var textView: TextView
